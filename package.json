@@ -1,0 +1,23 @@
+{
+  "name": "tokenswap-educport",
+  "version": "1.0.0",
+  "description": "The Token Swap Education Portal is a JavaScript package designed to provide educational resources for token swaps. It offers tutorials, guides, and interactive simulations to help users learn about token swapping in decentralized finance (DeFi).",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fantasticboogie/tokenswap-educport.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "fantasticboogie",
+  "license": "MIT",
+  "dependencies": {
+    "dao-management-suite": "^1.0.1"
+  }
+}
